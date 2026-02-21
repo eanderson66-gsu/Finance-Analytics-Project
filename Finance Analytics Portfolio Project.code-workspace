@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "Financial-Analysis-with-Python"
+		},
+		{
+			"name": "Financial-Data-Analysis",
+			"path": "Financial-Analysis-with-Python/Financial-Data-Analysis"
+		}
+	],
+	"settings": {}
+}
