@@ -1,4 +1,5 @@
 import duckdb as db
 
-connect = db.connect
+connect = db.connect("setup_example.duckdb")
+
 
