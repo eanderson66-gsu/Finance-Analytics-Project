@@ -4,6 +4,7 @@ con = db.connect("setup_example.duckdb")
 
 result = con.sql("SELECT COUNT(*) AS total_customers FROM raw_customers").fetchdf()
 
+#Display Connection status and query result
 print("Connection succesful")
 print(result)
 
